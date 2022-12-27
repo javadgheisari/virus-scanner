@@ -10,7 +10,7 @@ import os
 
 # Configure API key authorization: Apikey
 configuration = cloudmersive_virus_api_client.Configuration()
-configuration.api_key['Apikey'] = '1b64b6d4-c120-43c5-ae23-b3aa482d73da'
+configuration.api_key['Apikey'] = 'API-KEY'
 
 choice = int(input("1.filescan \n2.linkscan \n=>"))
 
